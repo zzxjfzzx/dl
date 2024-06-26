@@ -1,12 +1,3 @@
-# https://www.freeproxychecker.com
-# Scanned on Wed Jun 26 10:04:27 EDT 2024
-# Proxy Type: http
-# Scan Type: Standard
-# SSL: No
-# Count: 971
-# Connect Timeout: 5.0 Seconds
-# Request Timeout: 10.0 Seconds
-
 50.232.104.86:80
 50.218.57.74:80
 50.218.57.69:80
